@@ -1,4 +1,4 @@
-![Hi 👋, I'm Danial Jumagaliyev](header.png)
+[![Hi 👋, I'm Danial Jumagaliyev](header.png)](https://www.danqzq.games)
 
 ### I develop tools, websites, bots and different kinds of games! I have been making both 2D and 3D games with Unity for over 6 years.
 
