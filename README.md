@@ -2,7 +2,29 @@
 
 ### I develop tools, websites, bots and different kinds of games! I have been making both 2D and 3D games with Unity for over 6 years.
 
-# Latest YouTube Videos
+---
+
+## 🔗 Socials
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@danqzq) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/danqzq) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danqzq) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/danqzq) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dansplayground) 
+
+---
+
+## ⚒️ Languages & Tools
+
+![Unity](https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+
+---
+
+## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
 - [Indie Games I made in 2022](https://www.youtube.com/watch?v=ZDhKu1c01Y4)
 - [Adding Effects and UI Elements in Pygame! | Python Game Development Tutorial #4](https://www.youtube.com/watch?v=PfxwNxXveQk)
