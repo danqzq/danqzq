@@ -6,6 +6,7 @@
 
 ## 🎮 Play My Games Here
 
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Danial%20Jumagaliyev)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://danqzq.itch.io/) 
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@danqzq/Slime-Sweep) 
 
