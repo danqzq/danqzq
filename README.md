@@ -88,11 +88,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Making a Cozy Metaverse Game in 2 Days](https://www.youtube.com/watch?v=Z4RHqO90Oms)
 - [HELLGRINDER Reveal Trailer](https://www.youtube.com/watch?v=7rWo8qDw81I)
 - [Indie Games I made in 2022](https://www.youtube.com/watch?v=ZDhKu1c01Y4)
 - [Adding Effects and UI Elements in Pygame! | Python Game Development Tutorial #4](https://www.youtube.com/watch?v=PfxwNxXveQk)
 - [Projectiles and Enemy Behavior in Pygame! | Python Game Development Tutorial #3](https://www.youtube.com/watch?v=hM3dL5XEk5E)
-- [Creating Classes and Loading Images in Pygame! | Python Game Development Tutorial #2](https://www.youtube.com/watch?v=dDQyZp3qQI8)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
