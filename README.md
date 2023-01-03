@@ -88,7 +88,7 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [Making a Cozy Metaverse Game in 2 Days](https://www.youtube.com/watch?v=Z4RHqO90Oms)
+- [Making a Cozy Metaverse Game in 2 Days | CottageVille Devlog](https://www.youtube.com/watch?v=Z4RHqO90Oms)
 - [HELLGRINDER Reveal Trailer](https://www.youtube.com/watch?v=7rWo8qDw81I)
 - [Indie Games I made in 2022](https://www.youtube.com/watch?v=ZDhKu1c01Y4)
 - [Adding Effects and UI Elements in Pygame! | Python Game Development Tutorial #4](https://www.youtube.com/watch?v=PfxwNxXveQk)
