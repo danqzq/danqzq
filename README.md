@@ -88,11 +88,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [4 HOUR GAME DEV BATTLE - Lennyi VS Paolotto](https://www.youtube.com/watch?v=teyInCJLHYY)
 - [The best tool for Unity game devs](https://www.youtube.com/watch?v=SWV75papwFw)
 - [Making a Cozy Metaverse Game in 2 Days | CottageVille Devlog](https://www.youtube.com/watch?v=Z4RHqO90Oms)
 - [HELLGRINDER Reveal Trailer](https://www.youtube.com/watch?v=7rWo8qDw81I)
 - [Indie Games I made in 2022](https://www.youtube.com/watch?v=ZDhKu1c01Y4)
-- [Adding Effects and UI Elements in Pygame! | Python Game Development Tutorial #4](https://www.youtube.com/watch?v=PfxwNxXveQk)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
