@@ -88,11 +88,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [HELLGRINDER Steam Next Fest Demo Announcement](https://www.youtube.com/watch?v=B9KiJuTpZH0)
 - [2nd Year Of Dan Art](https://www.youtube.com/watch?v=9lonmjtzBv4)
 - [4 HOUR GAME DEV BATTLE - Lennyi VS Paolotto](https://www.youtube.com/watch?v=teyInCJLHYY)
 - [The best tool for Unity game devs](https://www.youtube.com/watch?v=SWV75papwFw)
 - [Making a Cozy Metaverse Game in 2 Days | CottageVille Devlog](https://www.youtube.com/watch?v=Z4RHqO90Oms)
-- [HELLGRINDER Reveal Trailer](https://www.youtube.com/watch?v=7rWo8qDw81I)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
