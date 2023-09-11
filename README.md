@@ -88,11 +88,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [All About &quot;static&quot; in Unity C#](https://www.youtube.com/watch?v=msvnzSoURFI)
 - [We Made a Monke Game in 72 Hours for CDawgVA&#39;s Jam! | Esc-Ape Devlog](https://www.youtube.com/watch?v=pjR-3SQ1YVg)
 - [HELLGRINDER Steam Next Fest Demo Announcement](https://www.youtube.com/watch?v=B9KiJuTpZH0)
 - [2nd Year Of Dan Art](https://www.youtube.com/watch?v=9lonmjtzBv4)
 - [4 HOUR GAME DEV BATTLE - Lennyi VS Paolotto](https://www.youtube.com/watch?v=teyInCJLHYY)
-- [The best tool for Unity game devs](https://www.youtube.com/watch?v=SWV75papwFw)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
