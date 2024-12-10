@@ -1,15 +1,15 @@
 [![Hi 👋, I'm Danial Jumagaliyev](header.png)](https://www.danqzq.games)
 
-### I develop tools, websites, bots and different kinds of games! I have been making both 2D and 3D games with Unity for over 7 years.
+### I develop tools, websites, bots and different kinds of games! I have been making both 2D and 3D games with Unity for over 8 years.
 
 ---
 
 ## 🎮 Play My Games Here
 
-
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://danqzq.itch.io/) 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?publisher=Danial%20Jumagaliyev) 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Team+Melon+Mobile)
+
 
 ## 🔗 Socials
 
@@ -44,7 +44,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 
 ### Back-end Development
@@ -62,6 +65,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 
 
 ### Mobile Development
@@ -69,6 +73,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 
 ### Art & Design
@@ -76,7 +81,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
 ### Automation & Testing
@@ -105,7 +110,6 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [TWO INDIANS HAVING BEEF &lpar;ft. PXL DEV AND OMM, UGANDO&rpar;](https://www.youtube.com/watch?v=nSBUYsxFzK0)
 - [MAKING A GAME IN 72 HOURS BUT I CAN&#39;T SLEEP? | Robocalyptic Invasion Devlog &lpar;MelonJam 4&rpar;](https://www.youtube.com/watch?v=3jjP1lm7M8I)
 - [How to Add an Online Leaderboard to a Unity Game in 1 Minute &lpar;with WebGL &amp; Mobile support&rpar;](https://www.youtube.com/watch?v=v0aWwSkC-4o)
 - [All About &quot;static&quot; in Unity C#](https://www.youtube.com/watch?v=msvnzSoURFI)
