@@ -110,6 +110,7 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [TWO INDIANS HAVING BEEF &lpar;ft. PXL DEV AND OMM, UGANDO&rpar;](https://www.youtube.com/watch?v=nSBUYsxFzK0)
 - [MAKING A GAME IN 72 HOURS BUT I CAN&#39;T SLEEP? | Robocalyptic Invasion Devlog &lpar;MelonJam 4&rpar;](https://www.youtube.com/watch?v=3jjP1lm7M8I)
 - [How to Add an Online Leaderboard to a Unity Game in 1 Minute &lpar;with WebGL &amp; Mobile support&rpar;](https://www.youtube.com/watch?v=v0aWwSkC-4o)
 - [All About &quot;static&quot; in Unity C#](https://www.youtube.com/watch?v=msvnzSoURFI)
