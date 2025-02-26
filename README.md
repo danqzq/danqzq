@@ -2,6 +2,8 @@
 
 ### I develop tools, websites, bots and different kinds of games! I have been making both 2D and 3D games with Unity for over 8 years.
 
+### For full details about my work experience, view my [Resume/CV 📋](https://www.danqzq.games/ResumeDanialJumagaliyev.pdf)
+
 ---
 
 ## 🎮 Play My Games Here
