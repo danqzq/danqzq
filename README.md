@@ -117,11 +117,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Project ADRIFT 🏎️💨 🏎️💨](https://www.youtube.com/shorts/tky1yytxyiM)
 - [I Added ONE Toilet… and Ruined the Entire Game](https://www.youtube.com/shorts/6RPohIEJUiI)
 - [What 5 Years of Game Jamming Looks Like](https://www.youtube.com/watch?v=rRfoGTGvoWg)
 - [FRIDAY NIGHT GAME JAM #2024-19](https://www.youtube.com/watch?v=nSBUYsxFzK0)
 - [MAKING A GAME IN 72 HOURS BUT I CAN&#39;T SLEEP? | Robocalyptic Invasion Devlog &lpar;MelonJam 4&rpar;](https://www.youtube.com/watch?v=3jjP1lm7M8I)
-- [How to Add an Online Leaderboard to a Unity Game in 1 Minute &lpar;with WebGL &amp; Mobile support&rpar;](https://www.youtube.com/watch?v=v0aWwSkC-4o)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
