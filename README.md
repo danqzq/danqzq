@@ -1,6 +1,4 @@
-[![Hi 👋, I'm Danial Jumagaliyev](header.png)](https://www.danqzq.games)
-
-### For full details about my work experience, view my [Resume/CV 📋](https://www.danqzq.games/ResumeDanialJumagaliyev.pdf)
+For full details about my work experience, view my [Resume/CV 📋](https://www.danqzq.games/ResumeDanialJumagaliyev.pdf)
 
 ---
 
