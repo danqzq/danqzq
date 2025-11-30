@@ -5,7 +5,7 @@ For full details about my work experience, view my [Resume/CV 📋](https://www.
 ## 🎮 Play My Games Here
 
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://danqzq.itch.io/) 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?publisher=Danial%20Jumagaliyev) 
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/45491287) 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Team+Melon+Mobile)
 
 ---
