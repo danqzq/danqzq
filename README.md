@@ -12,9 +12,9 @@ For full details about my work experience, view my [Resume/CV 📋](https://www.
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [I Added ONE Toilet… and Ruined the Entire Game](https://www.youtube.com/shorts/6RPohIEJUiI)
-- [What 5 Years of Game Jamming Looks Like](https://www.youtube.com/watch?v=rRfoGTGvoWg)
-- [FRIDAY NIGHT GAME JAM #2024-19](https://www.youtube.com/watch?v=nSBUYsxFzK0)
+- [I Thought My Project Was Dumb... Then Real Devs Started Contributing](https://www.youtube.com/shorts/iqlIhICbM1Y)
+- [Open Source: Our Idea of Relaxing](https://www.youtube.com/shorts/_9TvTClKkm8)
+- [Open Source Development Experiences - Coding Basement Ep 1](https://www.youtube.com/watch?v=jk9tGmdMEEQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
