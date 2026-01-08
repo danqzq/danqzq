@@ -12,9 +12,9 @@ For full details about my work experience, view my [Resume/CV 📋](https://www.
 
 ## 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Programming Language in Go | WTF Script Explained](https://www.youtube.com/shorts/9fpVveS3YiA)
 - [I Thought My Project Was Dumb... Then Real Devs Started Contributing](https://www.youtube.com/shorts/iqlIhICbM1Y)
 - [Open Source: Our Idea of Relaxing](https://www.youtube.com/shorts/_9TvTClKkm8)
-- [Open Source Development Experiences - Coding Basement Ep 1](https://www.youtube.com/watch?v=jk9tGmdMEEQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💌 Donate
